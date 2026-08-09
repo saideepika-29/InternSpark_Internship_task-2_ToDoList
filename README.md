@@ -34,6 +34,8 @@ This project demonstrates DOM manipulation, event handling, and dynamic UI updat
   - Dynamic content rendering
   - Array and object handling
 
+#live demo
+https://deepika-todolist.netlify.app/
 
 
 
